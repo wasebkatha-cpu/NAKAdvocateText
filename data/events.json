@@ -1,0 +1,64 @@
+[
+  {
+    "id": "event-01",
+    "title": "Keynote Address: Constitutional Writs & Administrative Accountability",
+    "category": "Seminars & Speeches",
+    "date": "October 14, 2025",
+    "location": "High Court Bar Association Auditorium",
+    "description": "Advocate Noor Alam Khatri delivered a masterclass keynote to over 250 young lawyers and bar members on effective writ drafting, interim stays, and doctrine of administrative fairness.",
+    "imageUrl": "/src/assets/images/legal_seminar_event_1785746216645.jpg",
+    "tags": [
+      "Bar Association",
+      "Keynote",
+      "Constitutional Law",
+      "Writ Practice"
+    ],
+    "featured": true
+  },
+  {
+    "id": "event-02",
+    "title": "Supreme Court Bench Hearing on Commercial Arbitration Reform",
+    "category": "High Court Proceedings",
+    "date": "August 22, 2025",
+    "location": "Supreme Court Building, Islamabad",
+    "description": "Represented the Bar Delegation in advocating for streamlined commercial arbitration rules to accelerate cross-border investment dispute resolutions.",
+    "imageUrl": "/src/assets/images/high_court_building_1785746204368.jpg",
+    "tags": [
+      "Supreme Court",
+      "Arbitration",
+      "Legal Reform"
+    ],
+    "featured": true
+  },
+  {
+    "id": "event-03",
+    "title": "Publication: 'Modern Forensic Evidence Standards in Criminal Jurisprudence'",
+    "category": "Legal Publications",
+    "date": "May 10, 2025",
+    "location": "Law Review Journal, Vol 18",
+    "description": "Published research paper examining digital chain of custody integrity and electronic evidence admissibility in appellate court practice.",
+    "imageUrl": "/src/assets/images/advocate_portrait_1785746191192.jpg",
+    "tags": [
+      "Research",
+      "Publication",
+      "Forensic Law",
+      "Evidence Act"
+    ],
+    "featured": false
+  },
+  {
+    "id": "event-04",
+    "title": "Annual Legal Aid Clinic for Indigent Litigants",
+    "category": "Bar Association",
+    "date": "January 15, 2025",
+    "location": "District Court Law Library Complex",
+    "description": "Organized a 3-day pro-bono legal counsel session assisting over 85 underprivileged families with property title and inheritance paperwork.",
+    "imageUrl": "/src/assets/images/legal_seminar_event_1785746216645.jpg",
+    "tags": [
+      "Pro Bono",
+      "Legal Aid",
+      "Community Service"
+    ],
+    "featured": false
+  }
+]
