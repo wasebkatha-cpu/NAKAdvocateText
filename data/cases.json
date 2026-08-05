@@ -1,0 +1,128 @@
+[
+  {
+    "id": "case-01",
+    "title": "State vs. Multi-State Financial Corp & Directors",
+    "citation": "2024 CLD 1892 (High Court)",
+    "court": "High Court",
+    "category": "Corporate & Commercial",
+    "year": 2024,
+    "clientType": "Minority Shareholders & Investors",
+    "summary": "Successfully secured a landmark injunction protecting minority shareholder assets against unauthorized corporate asset stripping exceeding $12 Million. Court validated minority audit rights under section 286.",
+    "legalStrategy": "Demonstrated fiduciary duty breach through forensic financial audit trail and secured ex-parte interim relief restraining board decisions.",
+    "precedentSet": "Established precedent empowering minority equity holders to petition for immediate forensic audits without requiring 20% consensus.",
+    "outcome": "Relief Granted",
+    "landmark": true,
+    "impactScore": "Landmark Corporate Precedent",
+    "tags": [
+      "Shareholder Rights",
+      "Forensic Audit",
+      "Injunction",
+      "Corporate Law"
+    ]
+  },
+  {
+    "id": "case-02",
+    "title": "M/S Apex Construction vs. Development Authority",
+    "citation": "2023 SCMR 1420 (Supreme Court Appeal)",
+    "court": "Supreme Court",
+    "category": "Civil Litigation",
+    "year": 2023,
+    "clientType": "Commercial Developer",
+    "summary": "Overturned arbitrary land acquisition orders by municipal authorities, restoring commercial property title and granting $3.5M in contract compensation.",
+    "legalStrategy": "Invoked Doctrine of Legitimate Expectation and proved procedural flaws in compulsory land requisition notices.",
+    "precedentSet": "Clarified statutory limits on municipal land acquisition without prior environmental and economic impact assessment.",
+    "outcome": "Won",
+    "landmark": true,
+    "impactScore": "Supreme Court Ruling",
+    "tags": [
+      "Land Acquisition",
+      "Property Rights",
+      "Supreme Court",
+      "Compensation"
+    ]
+  },
+  {
+    "id": "case-03",
+    "title": "Writ Petition: Citizens for Urban Heritage vs. Provincial Govt",
+    "citation": "2023 MLD 910 (High Court Constitutional Bench)",
+    "court": "High Court",
+    "category": "Constitutional Law",
+    "year": 2023,
+    "clientType": "Public Interest Litigation (PIL)",
+    "summary": "Secured stay order prohibiting illegal demolition of historical heritage architecture in downtown metropolitan area.",
+    "legalStrategy": "Argued fundamental rights under Article 9 and 14 asserting cultural preservation as integral component of right to life and dignity.",
+    "precedentSet": "Heritage protection mandates elevated to fundamental constitutional rights enforceable via High Court Writ Jurisdiction.",
+    "outcome": "Relief Granted",
+    "landmark": true,
+    "impactScore": "Constitutional Milestone",
+    "tags": [
+      "Public Interest",
+      "Writ Jurisdiction",
+      "Heritage Law",
+      "Article 19A"
+    ]
+  },
+  {
+    "id": "case-04",
+    "title": "State vs. Farhan & Ors (Homicide Defense)",
+    "citation": "2022 PCrLJ 1105 (Appellate Division)",
+    "court": "Appellate High Court",
+    "category": "Criminal Defense",
+    "year": 2022,
+    "clientType": "Falsely Accused Defendant",
+    "summary": "Secured full acquittal for accused in high-profile murder trial by exposing fabricated ballistics reports and chain of custody lapses.",
+    "legalStrategy": "Cross-examined prosecution forensic expert on cross-contamination risks and proved alibi witness credibility beyond doubt.",
+    "precedentSet": "Strict compliance standards mandated for police forensic ballistics seizure records.",
+    "outcome": "Won",
+    "landmark": false,
+    "impactScore": "Complete Acquittal",
+    "tags": [
+      "Criminal Appeal",
+      "Forensic Science",
+      "Chain of Custody",
+      "Acquittal"
+    ]
+  },
+  {
+    "id": "case-05",
+    "title": "Khan Estate Partition & Family Trust Litigation",
+    "citation": "2021 YLR 884 (Civil Court)",
+    "court": "District & Sessions Court",
+    "category": "Family & Inheritance",
+    "year": 2021,
+    "clientType": "Female Heirs & Beneficiaries",
+    "summary": "Resolved a 14-year-old high-value estate distribution dispute across multiple commercial properties, enforcing equitable female inheritance rights.",
+    "legalStrategy": "Utilized modern asset valuation methodologies and court-appointed commission to partition immovable holdings seamlessly.",
+    "precedentSet": "Enforced strict time-bound resolution protocol for inheritance partitioning under Islamic Succession laws.",
+    "outcome": "Settled",
+    "landmark": false,
+    "impactScore": "Equitable Division",
+    "tags": [
+      "Inheritance",
+      "Estate Planning",
+      "Family Law",
+      "Property Partition"
+    ]
+  },
+  {
+    "id": "case-06",
+    "title": "Global Logistics Ltd vs. Customs & Revenue Board",
+    "citation": "2024 PTD 502 (Customs Appellate Tribunal)",
+    "court": "Customs Appellate Tribunal",
+    "category": "Tax & Revenue",
+    "year": 2024,
+    "clientType": "International Shipping Enterprise",
+    "summary": "Successfully quashed unfair penal tariff levies totaling $850,000 imposed due to customs classification errors.",
+    "legalStrategy": "Demonstrated harmonized tariff code compliance under World Customs Organization standards.",
+    "precedentSet": "Customs authorities prohibited from retrospective re-classification without prior statutory notice.",
+    "outcome": "Won",
+    "landmark": false,
+    "impactScore": "Customs Precedent",
+    "tags": [
+      "Taxation",
+      "Revenue Law",
+      "Customs Duties",
+      "Tariff Dispute"
+    ]
+  }
+]
