@@ -15,8 +15,8 @@
   "workingHours": "Mon-Sat-09:00 AM - 07:00 PM",
   "googleMapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3620.012581298412!2d67.0099318!3d24.8607343!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3eb33e11f1f1f1f1%3A0x123456789abcdef!2sHigh%20Court%20Building!5e0!3m2!1sen!2s!4v1700000000000!5m2!1sen!2s",
   "domainUrl": "https://nakadvocate.com",
-  "portraitUrl": "/src/assets/images/advocate_portrait_1785746191192.jpg",
-  "bannerUrl": "/src/assets/images/high_court_building_1785746204368.jpg",
+  "portraitUrl": "/assets/advocate_portrait_1785746191192-Da6xePBd.jpg",
+  "bannerUrl": "/assets/high_court_building_1785746204368-CnicFY70.jpg",
   "additionalContacts": [
     {
       "id": "contact-01",
