@@ -1,0 +1,26 @@
+[
+  {
+    "id": "consult-101",
+    "name": "Tariq Mahmood",
+    "email": "tariq.m@example.com",
+    "phone": "+92 321 4455880",
+    "category": "Constitutional Law",
+    "urgency": "High Court Filing",
+    "message": "Need urgent High Court Writ petition assistance regarding illegal demolition notice issued for commercial shop in market district.",
+    "preferredDate": "2026-08-05",
+    "status": "New",
+    "createdAt": "2026-08-02T14:30:00Z"
+  },
+  {
+    "id": "consult-102",
+    "name": "Saima Malik",
+    "email": "saima.malik@corp.com",
+    "phone": "+92 301 9988771",
+    "category": "Corporate & Commercial",
+    "urgency": "Standard",
+    "message": "Seeking consultation for shareholder agreement review and protection clause drafting prior to series A funding round.",
+    "preferredDate": "2026-08-08",
+    "status": "Scheduled",
+    "createdAt": "2026-08-01T10:15:00Z"
+  }
+]
