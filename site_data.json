@@ -1,6 +1,6 @@
 {
   "version": "1.2.0",
-  "lastUpdated": "2026-08-06T05:49:31.776Z",
+  "lastUpdated": "2026-08-05T06:02:43.984Z",
   "profile": {
     "name": "Noor Alam Khatri",
     "title": "Advocate High Court & Legal Consultant",
@@ -18,8 +18,8 @@
     "workingHours": "Mon-Sat-09:00 AM - 07:00 PM",
     "googleMapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3620.012581298412!2d67.0099318!3d24.8607343!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3eb33e11f1f1f1f1%3A0x123456789abcdef!2sHigh%20Court%20Building!5e0!3m2!1sen!2s!4v1700000000000!5m2!1sen!2s",
     "domainUrl": "https://nakadvocate.com",
-    "portraitUrl": "/assets/advocate_portrait_1785746191192-Da6xePBd.jpg",
-    "bannerUrl": "/assets/high_court_building_1785746204368-CnicFY70.jpg",
+    "portraitUrl": "https://wasebkatha-cpu.github.io/NAKAdvocateImages/images/profile_portrait.jpg",
+    "bannerUrl": "https://wasebkatha-cpu.github.io/NAKAdvocateImages/images/profile_banner.jpg",
     "additionalContacts": [
       {
         "id": "contact-01",
@@ -69,14 +69,14 @@
     "imageRepoOwner": "wasebkatha-cpu",
     "imageRepoName": "NAKAdvocateImages",
     "imageRepoBranch": "main",
-    "repoOwner": "wasebkatha-cpu",
-    "repoName": "NAKAdvocate",
+    "repoOwner": "nakadvocate",
+    "repoName": "portfolio-data",
     "branch": "main",
-    "filePath": "site_data.json",
+    "filePath": "data/site-data.json",
     "gitHubToken": "",
     "autoSync": true,
-    "lastSyncTime": "2026-08-06T05:49:31.776Z",
-    "lastCommitHash": "Initial"
+    "lastSyncTime": "2026-08-06T05:43:46.557Z",
+    "lastCommitHash": "6e8af85"
   },
   "cases": [
     {
@@ -213,7 +213,7 @@
       "shortDesc": "High Court Writ Petitions, Fundamental Rights protection, Public Interest Litigation (PIL), and Judicial Reviews.",
       "fullDesc": "Representing individuals, corporations, and civil society in filing High Court Writ Petitions under Articles 199 & 184(3). Specializing in challenging unlawful administrative actions, fundamental rights violations, and statutory ultra vires actions.",
       "iconName": "Scale",
-      "imageUrl": "/assets/constitutional_law_1785907942690-CVuujW-q.jpg",
+      "imageUrl": "https://wasebkatha-cpu.github.io/NAKAdvocateImages/images/practice_areas/pa-01.jpg",
       "keyStatutes": [
         "Constitution of Pakistan",
         "Administrative Law Doctrines",
@@ -228,7 +228,7 @@
       "shortDesc": "Property partition, breach of contract, specific performance suits, declarations, and injunction proceedings.",
       "fullDesc": "Handling high-value civil suits, property disputes, contract enforcement, land title verification, specific performance, and tort actions across District and High Court levels.",
       "iconName": "Building",
-      "imageUrl": "/assets/civil_litigation_1785907955474-OD7xmcg-.jpg",
+      "imageUrl": "https://wasebkatha-cpu.github.io/NAKAdvocateImages/images/practice_areas/pa-02.jpg",
       "keyStatutes": [
         "Code of Civil Procedure (CPC 1908)",
         "Specific Relief Act 1877",
@@ -243,7 +243,7 @@
       "shortDesc": "High Court bail applications, criminal appeals, white-collar crime defense, and quashing of FIRs.",
       "fullDesc": "Providing defense counsel for high-profile criminal matters, pre-arrest and post-arrest bails, NAB financial offenses, cybercrime defense, and murder appeal hearings.",
       "iconName": "ShieldCheck",
-      "imageUrl": "/assets/criminal_defense_1785907966705-CDYbQQkT.jpg",
+      "imageUrl": "https://wasebkatha-cpu.github.io/NAKAdvocateImages/images/practice_areas/pa-03.jpg",
       "keyStatutes": [
         "Code of Criminal Procedure (CrPC 1898)",
         "Penal Code (PPC)",
@@ -258,7 +258,7 @@
       "shortDesc": "Mergers & acquisitions, shareholder litigation, commercial arbitration, and regulatory compliance.",
       "fullDesc": "Advising corporate boards, drafting cross-border commercial contracts, representing parties in international arbitration, shareholder dispute resolution, and regulatory compliance.",
       "iconName": "Briefcase",
-      "imageUrl": "/assets/corporate_law_1785907978469-BBlaeCL0.jpg",
+      "imageUrl": "https://wasebkatha-cpu.github.io/NAKAdvocateImages/images/practice_areas/pa-04.jpg",
       "keyStatutes": [
         "Companies Act 2017",
         "Arbitration Act 1940",
@@ -273,7 +273,7 @@
       "shortDesc": "Title perfection, leasehold disputes, commercial development contracts, and municipal planning challenges.",
       "fullDesc": "Full-service real estate legal counseling including title search verification, joint venture real estate contracts, land acquisition challenges, and tenant-landlord disputes.",
       "iconName": "FileText",
-      "imageUrl": "/assets/property_real_estate_1785907994070-DGNUQVtM.jpg",
+      "imageUrl": "https://wasebkatha-cpu.github.io/NAKAdvocateImages/images/practice_areas/pa-05.jpg",
       "keyStatutes": [
         "Registration Act 1908",
         "Land Revenue Act",
@@ -288,7 +288,7 @@
       "shortDesc": "Estate succession planning, probate certification, custody matters, and marital property partition.",
       "fullDesc": "Compassionate yet assertive legal representation in family court proceedings, inheritance claims, distribution of inherited estates, probate execution, and guardianship petitions.",
       "iconName": "Award",
-      "imageUrl": "/assets/family_inheritance_1785908005573-D7m0GGVp.jpg",
+      "imageUrl": "https://wasebkatha-cpu.github.io/NAKAdvocateImages/images/practice_areas/pa-06.jpg",
       "keyStatutes": [
         "Succession Act 1925",
         "Family Courts Act 1964",
@@ -306,7 +306,7 @@
       "date": "October 14, 2025",
       "location": "High Court Bar Association Auditorium",
       "description": "Advocate Noor Alam Khatri delivered a masterclass keynote to over 250 young lawyers and bar members on effective writ drafting, interim stays, and doctrine of administrative fairness.",
-      "imageUrl": "/assets/legal_seminar_event_1785746216645-C35R9tMW.jpg",
+      "imageUrl": "https://wasebkatha-cpu.github.io/NAKAdvocateImages/images/events/event-01.jpg",
       "tags": [
         "Bar Association",
         "Keynote",
@@ -322,7 +322,7 @@
       "date": "August 22, 2025",
       "location": "Supreme Court Building, Islamabad",
       "description": "Represented the Bar Delegation in advocating for streamlined commercial arbitration rules to accelerate cross-border investment dispute resolutions.",
-      "imageUrl": "/assets/high_court_building_1785746204368-CnicFY70.jpg",
+      "imageUrl": "https://wasebkatha-cpu.github.io/NAKAdvocateImages/images/events/event-02.jpg",
       "tags": [
         "Supreme Court",
         "Arbitration",
@@ -337,7 +337,7 @@
       "date": "May 10, 2025",
       "location": "Law Review Journal, Vol 18",
       "description": "Published research paper examining digital chain of custody integrity and electronic evidence admissibility in appellate court practice.",
-      "imageUrl": "/assets/advocate_portrait_1785746191192-Da6xePBd.jpg",
+      "imageUrl": "https://wasebkatha-cpu.github.io/NAKAdvocateImages/images/events/event-03.jpg",
       "tags": [
         "Research",
         "Publication",
@@ -353,7 +353,7 @@
       "date": "January 15, 2025",
       "location": "District Court Law Library Complex",
       "description": "Organized a 3-day pro-bono legal counsel session assisting over 85 underprivileged families with property title and inheritance paperwork.",
-      "imageUrl": "/assets/legal_seminar_event_1785746216645-C35R9tMW.jpg",
+      "imageUrl": "https://wasebkatha-cpu.github.io/NAKAdvocateImages/images/events/event-04.jpg",
       "tags": [
         "Pro Bono",
         "Legal Aid",
