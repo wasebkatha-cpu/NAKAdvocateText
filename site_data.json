@@ -1,6 +1,6 @@
 {
   "version": "1.2.0",
-  "lastUpdated": "2026-08-06T07:09:56.257Z",
+  "lastUpdated": "2026-08-06T12:00:49.973Z",
   "profile": {
     "name": "Noor Alam Khatri",
     "title": "Advocate High Court & Legal Consultant",
@@ -75,8 +75,8 @@
     "filePath": "site_data.json",
     "gitHubToken": "",
     "autoSync": true,
-    "lastSyncTime": "2026-08-06T11:48:40.082Z",
-    "lastCommitHash": "42ae54d"
+    "lastSyncTime": "2026-08-06T12:00:49.974Z",
+    "lastCommitHash": "Initial"
   },
   "cases": [
     {
