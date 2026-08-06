@@ -1,6 +1,6 @@
 {
   "version": "1.2.0",
-  "lastUpdated": "2026-08-06T06:33:21.063Z",
+  "lastUpdated": "2026-08-06T06:07:28.357Z",
   "profile": {
     "name": "Noor Alam Khatri",
     "title": "Advocate High Court & Legal Consultant",
@@ -69,14 +69,14 @@
     "imageRepoOwner": "wasebkatha-cpu",
     "imageRepoName": "NAKAdvocateImages",
     "imageRepoBranch": "main",
-    "repoOwner": "nakadvocate",
-    "repoName": "portfolio-data",
+    "repoOwner": "wasebkatha-cpu",
+    "repoName": "NAKAdvocate",
     "branch": "main",
-    "filePath": "data/site-data.json",
+    "filePath": "site_data.json",
     "gitHubToken": "",
     "autoSync": true,
-    "lastSyncTime": "2026-08-06T06:04:07.373Z",
-    "lastCommitHash": "1429d9d"
+    "lastSyncTime": "2026-08-06T06:07:28.577Z",
+    "lastCommitHash": "3a3acfd"
   },
   "cases": [
     {
