@@ -1,6 +1,6 @@
 {
   "version": "1.2.0",
-  "lastUpdated": "2026-08-07T06:10:04.765Z",
+  "lastUpdated": "2026-08-06T07:09:56.257Z",
   "profile": {
     "name": "Noor Alam Khatri",
     "title": "Advocate High Court & Legal Consultant",
@@ -75,8 +75,8 @@
     "filePath": "site_data.json",
     "gitHubToken": "",
     "autoSync": true,
-    "lastSyncTime": "2026-08-07T06:22:21.685Z",
-    "lastCommitHash": "4951da1"
+    "lastSyncTime": "2026-08-07T06:12:15.091Z",
+    "lastCommitHash": "be5e27a"
   },
   "cases": [
     {
@@ -306,7 +306,7 @@
       "date": "October 14, 2025",
       "location": "High Court Bar Association Auditorium",
       "description": "Advocate Noor Alam Khatri delivered a masterclass keynote to over 250 young lawyers and bar members on effective writ drafting, interim stays, and doctrine of administrative fairness.",
-      "imageUrl": "",
+      "imageUrl": "https://raw.githubusercontent.com/wasebkatha-cpu/NAKAdvocateImages/main/images/events/event-01.jpg",
       "tags": [
         "Bar Association",
         "Keynote",
