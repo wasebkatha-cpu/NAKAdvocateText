@@ -1,25 +1,12 @@
 [
   {
-    "id": "event-1786168757703",
-    "title": "Fghj",
-    "category": "Seminars & Speeches",
-    "date": "8/8/2026",
-    "location": "High Court Chamber",
-    "description": "Ghkjffd",
-    "imageUrl": "https://raw.githubusercontent.com/wasebkatha-cpu/NAKAdvocateImages/main/images/events/event-1786168757703.jpg",
-    "tags": [
-      "High Court"
-    ],
-    "featured": false
-  },
-  {
     "id": "event-01",
     "title": "Keynote Address: Constitutional Writs & Administrative Accountability",
     "category": "Seminars & Speeches",
     "date": "October 14, 2025",
     "location": "High Court Bar Association Auditorium",
     "description": "Advocate Noor Alam Khatri delivered a masterclass keynote to over 250 young lawyers and bar members on effective writ drafting, interim stays, and doctrine of administrative fairness.",
-    "imageUrl": "https://raw.githubusercontent.com/wasebkatha-cpu/NAKAdvocateImages/main/images/events/event-01.jpg",
+    "imageUrl": "",
     "tags": [
       "Bar Association",
       "Keynote",
@@ -35,7 +22,7 @@
     "date": "August 22, 2025",
     "location": "Supreme Court Building, Islamabad",
     "description": "Represented the Bar Delegation in advocating for streamlined commercial arbitration rules to accelerate cross-border investment dispute resolutions.",
-    "imageUrl": "https://raw.githubusercontent.com/wasebkatha-cpu/NAKAdvocateImages/main/images/events/event-02.jpg",
+    "imageUrl": "",
     "tags": [
       "Supreme Court",
       "Arbitration",
