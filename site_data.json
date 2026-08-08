@@ -75,8 +75,8 @@
     "filePath": "site_data.json",
     "gitHubToken": "",
     "autoSync": true,
-    "lastSyncTime": "2026-08-08T01:26:47.636Z",
-    "lastCommitHash": "9e5e23e"
+    "lastSyncTime": "2026-08-08T05:58:12.740Z",
+    "lastCommitHash": "6248bcf"
   },
   "cases": [
     {
@@ -299,6 +299,19 @@
     }
   ],
   "events": [
+    {
+      "id": "event-1786168757703",
+      "title": "Fghj",
+      "category": "Seminars & Speeches",
+      "date": "8/8/2026",
+      "location": "High Court Chamber",
+      "description": "Ghkjffd",
+      "imageUrl": "https://raw.githubusercontent.com/wasebkatha-cpu/NAKAdvocateImages/main/images/events/event-1786168757703.jpg",
+      "tags": [
+        "High Court"
+      ],
+      "featured": false
+    },
     {
       "id": "event-01",
       "title": "Keynote Address: Constitutional Writs & Administrative Accountability",
