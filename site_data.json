@@ -1,6 +1,6 @@
 {
   "version": "1.2.0",
-  "lastUpdated": "2026-08-17T18:03:25.136Z",
+  "lastUpdated": "2026-08-18T00:36:18.611Z",
   "profile": {
     "name": "Noor Alam Khatri",
     "title": "Advocate High Court & Legal Consultant",
@@ -77,7 +77,7 @@
     "filePath": "site_data.json",
     "gitHubToken": "",
     "autoSync": true,
-    "lastSyncTime": "2026-08-17T18:03:25.137Z",
+    "lastSyncTime": "2026-08-18T00:36:18.611Z",
     "lastCommitHash": "Initial"
   },
   "cases": [
@@ -406,7 +406,7 @@
         "git",
         "moderators"
       ],
-      "createdAt": "2026-08-17T18:03:25.138Z",
+      "createdAt": "2026-08-18T00:36:18.611Z",
       "status": "active",
       "notes": "High Court Advocate Super Admin"
     },
@@ -425,7 +425,7 @@
         "git",
         "moderators"
       ],
-      "createdAt": "2026-08-17T18:03:25.139Z",
+      "createdAt": "2026-08-18T00:36:18.611Z",
       "status": "active",
       "notes": "Senior Advocate Chamber Lead"
     },
@@ -444,7 +444,7 @@
         "git",
         "moderators"
       ],
-      "createdAt": "2026-08-17T18:03:25.140Z",
+      "createdAt": "2026-08-18T00:36:18.611Z",
       "status": "active",
       "notes": "Technical Administrator"
     }
