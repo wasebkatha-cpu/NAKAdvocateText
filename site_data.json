@@ -20,7 +20,7 @@
     "latitude": 24.860734,
     "longitude": 67.009932,
     "domainUrl": "https://nakadvocate.com",
-    "portraitUrl": "https://raw.githubusercontent.com/wasebkatha-cpu/NAKAdvocateImages/main/images/profile_portrait.jpg",
+    "portraitUrl": "https://wasebkatha-cpu.github.io/NAKAdvocateImages/images/profile_portrait.jpg",
     "bannerUrl": "",
     "additionalContacts": [
       {
@@ -77,8 +77,8 @@
     "filePath": "site_data.json",
     "gitHubToken": "",
     "autoSync": true,
-    "lastSyncTime": "2026-09-07T05:45:35.304Z",
-    "lastCommitHash": "3517a86"
+    "lastSyncTime": "2026-08-10T11:42:30.881Z",
+    "lastCommitHash": "8660352"
   },
   "cases": [
     {
@@ -308,7 +308,7 @@
       "date": "October 14, 2025",
       "location": "High Court Bar Association Auditorium",
       "description": "Advocate Noor Alam Khatri delivered a masterclass keynote to over 250 young lawyers and bar members on effective writ drafting, interim stays, and doctrine of administrative fairness.",
-      "imageUrl": "https://raw.githubusercontent.com/wasebkatha-cpu/NAKAdvocateImages/main/images/events/event-01.jpg",
+      "imageUrl": "",
       "tags": [
         "Bar Association",
         "Keynote",
@@ -406,7 +406,7 @@
         "git",
         "moderators"
       ],
-      "createdAt": "2026-08-25T06:52:14.444Z",
+      "createdAt": "2026-09-07T08:00:39.574Z",
       "status": "active",
       "notes": "High Court Advocate Super Admin"
     },
@@ -425,7 +425,7 @@
         "git",
         "moderators"
       ],
-      "createdAt": "2026-08-25T06:52:14.444Z",
+      "createdAt": "2026-09-07T08:00:39.574Z",
       "status": "active",
       "notes": "Senior Advocate Chamber Lead"
     },
@@ -444,7 +444,7 @@
         "git",
         "moderators"
       ],
-      "createdAt": "2026-08-25T06:52:14.444Z",
+      "createdAt": "2026-09-07T08:00:39.574Z",
       "status": "active",
       "notes": "Technical Administrator"
     }
